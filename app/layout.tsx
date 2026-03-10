@@ -9,7 +9,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
       <body>
         <Script
           defer
-          src="https://umami.volpionas.synology.me/u.js"
+          src="https://umami.voidcorp.io/u.js"
           data-website-id="ff4e3096-3c26-42a6-85c4-707ac1f8a28f"
           strategy="afterInteractive"
         />
